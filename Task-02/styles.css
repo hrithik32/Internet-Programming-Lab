@@ -1,0 +1,22 @@
+body {
+    background-color: rgb(100, 209, 242);
+    margin: 30px;
+}
+
+button {
+    width: 130px;
+    padding: 10px 15px;
+    font-size: 18px;
+    margin: 7px;
+    border-radius: 30px;
+}
+
+button:hover {
+    background-color: rgb(228, 210, 93);
+  }
+
+#count-display{
+    
+    font-size: 30px;
+    margin-top: 20px;
+}
